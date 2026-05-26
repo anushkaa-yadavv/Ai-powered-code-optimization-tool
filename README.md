@@ -1,8 +1,8 @@
-# AI_CODE_ENGINE
+# AI BASED CODE OPTIMIZATION TOOL
 
 ## AI-Powered Real-Time Code Optimization and Analysis System
 
-AI_CODE_ENGINE is an advanced AI-powered code optimization framework that performs real-time source code monitoring, AST-based static analysis, intelligent semantic optimization, risk analysis, syntax validation, and automated reporting.
+It is an advanced AI-powered code optimization framework that performs real-time source code monitoring, AST-based static analysis, intelligent semantic optimization, risk analysis, syntax validation, and automated reporting.
 
 The system integrates Groq LPU-powered Llama-3.3-70B models with Python-based static analysis techniques to provide intelligent code refactoring and maintainability improvements.
 
