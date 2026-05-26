@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: ai-code-engine
+Version: 4.0.0
+Requires-Dist: groq
+Requires-Dist: python-dotenv
+Requires-Dist: flask

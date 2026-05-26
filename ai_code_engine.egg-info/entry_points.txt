@@ -1,0 +1,2 @@
+[console_scripts]
+aicode = ai_code_engine.cli:cli
